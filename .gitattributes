@@ -1,0 +1,16 @@
+# Your data and settings. On `git pull upstream main`, git keeps your version of these files.
+# Requires, once per clone: git config merge.ours.driver true
+inbox.md merge=ours
+next-actions.md merge=ours
+waiting-for.md merge=ours
+calendar.md merge=ours
+someday-maybe.md merge=ours
+contexts.md merge=ours
+horizons.md merge=ours
+completed.md merge=ours
+settings.md merge=ours
+lists/** merge=ours
+projects/** merge=ours
+reference/** merge=ours
+reviews/** merge=ours
+daily/** merge=ours
