@@ -2,12 +2,6 @@
 
 <!-- Raw captures. Format: - <raw text> (captured YYYY-MM-DD). Process to empty with /process. -->
 
-- Go to the library with Krzysiu (captured 2026-11-26)
-- Clean the aquarium (captured 2026-11-26)
-- Water the flowers (captured 2026-11-26)
-- Sort kids' cloths (captured 2026-11-26)
-- Drive to the big trash place (captured 2026-11-26)
-- Clean the car outside (captured 2026-11-26)
 - Clean the car inside (captured 2026-11-26)
 - Check tax statement for 2026 (captured 2026-11-26)
 - Unsubscribe for the infrysningslon (captured 2026-11-26)
