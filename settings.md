@@ -33,4 +33,4 @@ gmail-limit: 5
 
 <!-- Whether first-run setup is finished. /guide setup sets this to done. While it is not done and your lists are empty, Claude offers /guide setup. -->
 
-setup: not done
+setup: done

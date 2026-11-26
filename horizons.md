@@ -22,3 +22,12 @@ _Last reviewed: never_
 <!-- Ongoing roles and standards to maintain. Every project should link to one.
 Personal examples: Health, Finances, Home, Family, Friends, Learning, Fun.
 Work examples: Team, Product, Hiring, Stakeholders, Professional development. -->
+
+- Hobby
+- Health and exercise
+- Family quality time
+- Chores
+- Cooking
+- Roadmap
+- Team management
+- Professional development and growth
