@@ -10,7 +10,7 @@ Total: eaten <sum> kcal, burned <sum> kcal, net <eaten minus burned> kcal -->
 ## 2026-11-27
 - eaten: Overnight oats — 300 kcal
 - eaten: Lay's chips — 200 kcal
-- eaten: Bowl of asparagus soup with shrimp — ~250 kcal (estimate)
+- eaten: Bowl of asparagus soup with shrimp — 350 kcal
 - eaten: 1 mandarin — ~40 kcal (estimate)
 - burned: Leg day, 25 min — kcal unknown
-Total: eaten 790 kcal, burned 0 kcal, net 790 kcal
+Total: eaten 890 kcal, burned 0 kcal, net 890 kcal
